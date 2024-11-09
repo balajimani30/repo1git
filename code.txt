@@ -1,0 +1,3 @@
+def addition(a,b):
+	'  This is the function will return addition of two given arguments  '
+	retrun a+b
